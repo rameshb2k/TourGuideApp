@@ -1,0 +1,149 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide - Bengaluru, India</string>
+
+    <!-- Category name for shopping [CHAR LIMIT=20] -->
+    <string name="category_shopping">Shopping</string>
+
+    <string name="res_d">Residency Road</string>
+    <string name="res_l">This is the city\'s hub for handicrafts. It has the Eva Mall.</string>
+
+    <string name="mar_d">Marathahalli - Varthur Road</string>
+    <string name="mar_l">Most of the factory outlets are located on the road to Airport.</string>
+
+    <string name="bri_d">Brigade Road</string>
+    <string name="bri_l">Popular Shopping hub for youngsters. Branded showrooms, street stalls. </string>
+
+    <string name="mgr_d">MG Road</string>
+    <string name="mgr_l">M.G. Road area is favourite with tourists offering a diverse range of stores.</string>
+
+    <string name="ubc_d">UB City Mall</string>
+    <string name="ubc_l">UB City Mall is India\'s first luxury Mall with high end brand stores.</string>
+
+    <string name="for_d">Forum Mall</string>
+    <string name="for_l">For the more serious shoppers, Forum Mall has both high-end and local brands.</string>
+
+    <string name="sam_d">Sampige Road</string>
+    <string name="sam_l">Occupying the heart of Malleswaram, Sampige road is most frequented by locals.</string>
+
+    <string name="lev_d">Levitate</string>
+    <string name="lev_l">This Boutique store greets you with curling wisps of the incense smoke.</string>
+
+    <string name="psy_d">Psybaba</string>
+    <string name="psy_l">Mobile flea market of biodegradable items by two nature-loving crusaders. </string>
+
+    <string name="cin_d">Cinnamon</string>
+    <string name="cin_l">One of the City\'s oldest lifestyle stores, and is popular to this date.</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+    <string name="mtr_d">MTR - South Indian Vegetarian \nTel (011) 91 5551212</string>
+    <string name="mtr_l">lalbagh Ford Rd and Indiranagar 100ft Road</string>
+
+    <string name="ks_d">Kormangala Social - Continental \nTel 080 40515253</string>
+    <string name="ks_l">118, Koramangala 7th Block</string>
+
+    <string name="dh_d">Delhi Highway - North Indian \nTel 080 45128750</string>
+    <string name="dh_l">951, 12th Main Road, HAL 2nd Stage, Indiranagar</string>
+
+    <string name="hm_d">Halli Mane - South/North Indian \nTel 080 41139523</string>
+    <string name="hm_l">3rd Cross, Sampige Road, Malleshwaram</string>
+
+    <string name="oc_d">Oh! Calcutta - Bengali Seafood \nTel 080 49653405</string>
+    <string name="oc_l">2nd Floor, 14, Church Street, Bangalore</string>
+
+    <string name="ke_d">Kesariya - Rajastani \nTel 080 26590800</string>
+    <string name="ke_l">55, Goenka Chambers, 19th Main, Phase 2, JP Nagar</string>
+
+    <string name="ab_d">Arbor Brewing Co - Continental \nTel+91 9686520315</string>
+    <string name="ab_l">8, 3rd Floor, Grande Plaza, Brigade Road</string>
+
+    <string name="tp_d">TherPUP - a Dog Cafe - Desserts \nTel 080 67921222</string>
+    <string name="tp_l">13, White Rose Layout, Mahadevpura, Whitefield</string>
+
+    <string name="cp_d">Casa Piccosa - Mexican, Tex-Mex \nTel 080 49652598</string>
+    <string name="cp_l">745, 2nd Floor, 24th Main, 15th cross, JP Nagar</string>
+
+    <string name="ipc_d"> Indian Paratha Company  \nTel +91 9902009977</string>
+    <string name="ipc_l">1/2, Devanahalli, International Airport, Bangalore </string>
+
+    <!-- Category name for attractions [CHAR LIMIT=20] -->
+    <string name="category_attractions">Attractions</string>
+
+    <string name="lal_d">Lal Bagh - Botanical Garden \nMonday - Sunday 6am - 6pm</string>
+    <string name="lal_l">Tel: 080 2657 8184\n South Bangalore</string>
+
+    <string name="cpark_d">Cubbon Park - Beautiful Central Park\nMonday - Sunday 6am - 6pm</string>
+    <string name="cpark_l">Tel: 080 2286 4125\n Behind High Court, Ambedkar Veedhi</string>
+
+    <string name="vs_d">Vidhana Soudha - State Legislature\nSaturday - Sunday 9am - 6pm</string>
+    <string name="vs_l">Tel: 8901519329\n Dr Ambedkar Road, Sampangi Ramnagar, Bangalore</string>
+
+    <string name="bp_d">Bangalore Palace\nMonday - Sunday 10am - 5pm</string>
+    <string name="bp_l">Tel: 080 2336 0818\nPalace Road, Vasanth Nagar, Bangalore</string>
+
+    <string name="jnp_d">Jawaharlal Nehru Planetarium\nTuesday - Sunday 12:15am - 4:30pm</string>
+    <string name="jnp_l">Tel: 080 2337 9725\nSri T. Chowdaiah Road, High Grounds, Bangalore</string>
+
+    <string name="bt_d">Bull Temple - Hindu God\nMonday - Sunday 6:30am - 8:30pm</string>
+    <string name="bt_l">Tel: 080 2667 8777\nBull Temple Road, Basavanagudi, Bangalore</string>
+
+    <string name="wl_d">Wonder La - Amusement Park\nMonday - Sunday 11am - 7pm</string>
+    <string name="wl_l">Tel: 091000 63636\nOuter Ring Road, Exit 13, Bangalore</string>
+
+    <string name="bnp_d">Bannerghatta National park-Zoo\nWednesday - Monday 10am - 5pm</string>
+    <string name="bnp_l">Tel: 091649 50099\nBannerghatta Road, Bangalore</string>
+
+    <string name="smb_d">St. Mary\'s Basilica\nTiming Varies</string>
+    <string name="smb_l">Tel: 080 2286 5434\nMsgr. F. Noronha Road, Shivaji Nagar</string>
+
+    <string name="it_d">ISKCON Temple\nMonday - Sunday 4:15AM - 8:20PM</string>
+    <string name="it_l">Tel: 080 2357 8347\nChord Road, Rajaji Nagar</string>
+
+    <!-- Category name for events [CHAR LIMIT=20] -->
+    <string name="category_events">Events</string>
+    <string name="nof_d">Night of Fright \nSat, Oct 29, 2016, 9:00PM  Free</string>
+    <string name="nof_l">I-Bar, MG Road, Central Bangalore</string>
+
+    <string name="bol_d">Bollywood Saturday Night \nSat, Oct 22, 2016, 8:00PM  Free</string>
+    <string name="bol_l">Sutra - The lalit Ashok, Sheshadripuram. </string>
+
+    <string name="cine_d">Cine Forum Melies : Insecure /ui vive\nThu, Oct 27, 2016, 7:00PM  Free</string>
+    <string name="cine_l">Alliance Francaise De Bangalore, Central Bangalore </string>
+
+    <string name="uni_d">The Universe: Big and Small\nSun, Oct 23, 2016, 4:00PM  Free</string>
+    <string name="uni_l">Jawaharlal Nehru Planetarium, Kumarakrupa Road, Bangalore </string>
+
+    <string name="byob_d">Bangalore BYOB - 8th Book Meet\nSun, Oct 23, 2016, 3:00PM  Free</string>
+    <string name="byob_l">Marathahalli, Airport Road , Bangalore </string>
+
+    <string name="demo_d">TechHub Global Demo Night\nSun, Nov 8, 2016, 7:00PM  Free</string>
+    <string name="demo_l">TechHub Bangalore, Prestige Blue Chip, Hosur Road. Nr. Dairy Circle. </string>
+
+    <string name="drum_d">Commnity DRUMJAM\nSun, Nov 20, 2016, 4:00PM  Free</string>
+    <string name="drum_l">Rangoli - The Metro Art Center, MG Road, Shivaji Nagar, Bangalore </string>
+
+    <string name="afc_d">AF Cinema : One of a kind\nFri, Nov 11, 2016, 6:30PM  Free</string>
+    <string name="afc_l">Suchitra Cinema and Cultural Academy, 9th Main, Banashankari Stage II </string>
+
+    <string name="cpt_d">Children\'s Puppet Theatre Festival \nSat, Oct 22, 2016, 10:00AM  Free</string>
+    <string name="cpt_l">Indus Early Learning Center, No. 36, Kalpana Chawla Road, RMV 2nd Stage </string>
+
+    <string name="sr_d">Situation Room - With PunchTantraa \nSat, Oct 21,2016 8:00PM  Free</string>
+    <string name="sr_l">Coffee On Canvas, 1st Cross, 4th Block,  Koramangala, 4-C Block </string>
+
+</resources>
